@@ -1,0 +1,50 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.12.2014 16:16:41
+
+newmtl TileSet1
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\FloorTiles1_T.png
+	map_Kd maps\FloorTiles1_T.png
+	map_bump maps\FloorTiles1_N.png
+	bump maps\FloorTiles1_N.png
+
+newmtl FloorTiles3
+	Ns 19.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.1260 0.1260 0.1260
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\FloorTiles3_T.png
+	map_Kd maps\FloorTiles3_T.png
+	map_bump maps\FloorTiles3_N.png
+	bump maps\FloorTiles3_N.png
+
+newmtl Wall1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Wall1_T.png
+	map_Kd maps\Wall1_T.png
+	map_bump maps\Wall1_N.png
+	bump maps\Wall1_N.png

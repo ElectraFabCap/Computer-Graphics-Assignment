@@ -1,0 +1,88 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.12.2014 14:44:17
+
+newmtl 08___Default
+	Ns 18.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0990 0.0990 0.0990
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Bark1_T.png
+	map_Kd maps\Bark1_T.png
+	map_bump maps\Bark1_N.png
+	bump maps\Bark1_N.png
+
+newmtl _ThaiDemonMask_ultralowmaterial_0
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ThaiDemonMask_T.png
+	map_Kd maps\ThaiDemonMask_T.png
+	map_bump maps\ThaiDemonMask_N.png
+	bump maps\ThaiDemonMask_N.png
+
+newmtl Iron1
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0990 0.0990 0.0990
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Metal1_T.png
+	map_Kd maps\Metal1_T.png
+	map_bump maps\Metal1_N.png
+	bump maps\Metal1_N.png
+
+newmtl Blackness
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl FabricRed
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7176 0.7176 0.7176
+	Kd 0.7176 0.7176 0.7176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\fabric_red.png
+	map_Kd maps\fabric_red.png
+
+newmtl WhiteBone
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5412 0.4627 0.3490
+	Kd 0.5412 0.4627 0.3490
+	Ks 0.1980 0.1980 0.1980
+	Ke 0.0000 0.0000 0.0000
